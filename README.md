@@ -4,7 +4,7 @@
 
 The Recipe Generator is a web application that allows users to find recipes based on selected ingredients and dietary preferences. It fetches recipes from an API and displays them in a dynamic UI. Users can expand/collapse the recipe cards to view detailed cooking steps.  
 
-## Live Deme: https://ingrecipe.netlify.app/
+## Live Demo: https://ingrecipe.netlify.app/
 
 ## Features  
 
