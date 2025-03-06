@@ -31,8 +31,8 @@ Make sure you have the following installed:
 
 ## Clone the Repository  
 
-```git clone https://github.com/yourusername/recipe-generator.git  
-cd recipe-generator```  
+```git clone https://github.com/yourusername/recipe-generator.git```  
+```cd recipe-generator```  
 
 ### Install Dependencies  
 
