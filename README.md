@@ -31,21 +31,21 @@ Make sure you have the following installed:
 
 ## Clone the Repository  
 
-```git clone https://github.com/yourusername/recipe-generator.git
-cd recipe-generator```
+    git clone https://github.com/yourusername/recipe-generator.git
+    cd recipe-generator
 
 ### Install Dependencies  
 
-```npm install```   
+    npm install  
 
 ### Start the Frontend
 
-```npm run dev```   
+    npm run dev  
 
 ### Start the Backend  
 
 Navigate to the backend folder:  
 
-```cd backend
-npm install
-npm start```
+    cd backend  
+    npm install  
+    npm start
